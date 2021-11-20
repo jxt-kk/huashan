@@ -9,4 +9,6 @@ package com.msb;
  * @since JDK 1.8
  */
 public class Student {
+    private int age;
+    private String name;
 }
